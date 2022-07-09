@@ -1,0 +1,30 @@
+C:\Users\KEVIN\source\repos\BookStore\BookStore.Model\bin\Debug\net5.0\BookStore.Model.deps.json
+C:\Users\KEVIN\source\repos\BookStore\BookStore.Model\bin\Debug\net5.0\BookStore.Model.runtimeconfig.json
+C:\Users\KEVIN\source\repos\BookStore\BookStore.Model\bin\Debug\net5.0\BookStore.Model.runtimeconfig.dev.json
+C:\Users\KEVIN\source\repos\BookStore\BookStore.Model\bin\Debug\net5.0\BookStore.Model.dll
+C:\Users\KEVIN\source\repos\BookStore\BookStore.Model\bin\Debug\net5.0\ref\BookStore.Model.dll
+C:\Users\KEVIN\source\repos\BookStore\BookStore.Model\bin\Debug\net5.0\BookStore.Model.pdb
+C:\Users\KEVIN\source\repos\BookStore\BookStore.Model\obj\Debug\net5.0\BookStore.Model.csproj.AssemblyReference.cache
+C:\Users\KEVIN\source\repos\BookStore\BookStore.Model\obj\Debug\net5.0\BookStore.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEVIN\source\repos\BookStore\BookStore.Model\obj\Debug\net5.0\BookStore.Model.AssemblyInfoInputs.cache
+C:\Users\KEVIN\source\repos\BookStore\BookStore.Model\obj\Debug\net5.0\BookStore.Model.AssemblyInfo.cs
+C:\Users\KEVIN\source\repos\BookStore\BookStore.Model\obj\Debug\net5.0\BookStore.Model.csproj.CoreCompileInputs.cache
+C:\Users\KEVIN\source\repos\BookStore\BookStore.Model\obj\Debug\net5.0\BookStore.Model.dll
+C:\Users\KEVIN\source\repos\BookStore\BookStore.Model\obj\Debug\net5.0\ref\BookStore.Model.dll
+C:\Users\KEVIN\source\repos\BookStore\BookStore.Model\obj\Debug\net5.0\BookStore.Model.pdb
+C:\Users\KEVIN\source\repos\BookStore\BookStore.Model\obj\Debug\net5.0\BookStore.Model.genruntimeconfig.cache
+G:\Tatvasoft\Web API\BookStore\BookStore.Model\bin\Debug\net5.0\BookStore.Model.deps.json
+G:\Tatvasoft\Web API\BookStore\BookStore.Model\bin\Debug\net5.0\BookStore.Model.runtimeconfig.json
+G:\Tatvasoft\Web API\BookStore\BookStore.Model\bin\Debug\net5.0\BookStore.Model.runtimeconfig.dev.json
+G:\Tatvasoft\Web API\BookStore\BookStore.Model\bin\Debug\net5.0\BookStore.Model.dll
+G:\Tatvasoft\Web API\BookStore\BookStore.Model\bin\Debug\net5.0\ref\BookStore.Model.dll
+G:\Tatvasoft\Web API\BookStore\BookStore.Model\bin\Debug\net5.0\BookStore.Model.pdb
+G:\Tatvasoft\Web API\BookStore\BookStore.Model\obj\Debug\net5.0\BookStore.Model.csproj.AssemblyReference.cache
+G:\Tatvasoft\Web API\BookStore\BookStore.Model\obj\Debug\net5.0\BookStore.Model.GeneratedMSBuildEditorConfig.editorconfig
+G:\Tatvasoft\Web API\BookStore\BookStore.Model\obj\Debug\net5.0\BookStore.Model.AssemblyInfoInputs.cache
+G:\Tatvasoft\Web API\BookStore\BookStore.Model\obj\Debug\net5.0\BookStore.Model.AssemblyInfo.cs
+G:\Tatvasoft\Web API\BookStore\BookStore.Model\obj\Debug\net5.0\BookStore.Model.csproj.CoreCompileInputs.cache
+G:\Tatvasoft\Web API\BookStore\BookStore.Model\obj\Debug\net5.0\BookStore.Model.dll
+G:\Tatvasoft\Web API\BookStore\BookStore.Model\obj\Debug\net5.0\ref\BookStore.Model.dll
+G:\Tatvasoft\Web API\BookStore\BookStore.Model\obj\Debug\net5.0\BookStore.Model.pdb
+G:\Tatvasoft\Web API\BookStore\BookStore.Model\obj\Debug\net5.0\BookStore.Model.genruntimeconfig.cache
