@@ -1,0 +1,20 @@
+id,firstname,lastname,email,password,roleid
+74,test123,test123,test12@gmail.com,Test@12,2
+58,Jamu,Makwana,jayminmakwana@gmail.com,Jaymin@123,1
+75,demo,test,admin@demo.com,12345,3
+57,Jamuedited,Makwana,jayminmakwana@gmail.com,Jaymin@1,2
+55,Seller,User,seller@yopmail.com,Seller@123,2
+54,Admin,User,admin@yopmail.com,Admin@123,1
+62,Jinal,Patel,jinalst@yopmail.com,Testing@123,2
+72,testwe,test,test@rw3wgmail.com,Testing@123,3
+71,Mayur update,Patel update,mayurpatel@gmail.com,mayur@123,1
+65,arpit,patel,arpit@gmail.com,Testing@123,1
+66,test,test,testtest@yopmail.com,Testing@123,1
+61,buyer,mail,bbuyer@buyermail.com,buyer123,2
+78,Vikram,dharajiya,v@gmail.com,vk@123,1
+77,Vikram,Dharajiya,vikram@ttv.com,ttv@123,1
+52,Buyer12,Buyer1,buyer@yopmail.com,Buyer@123,3
+81,kevin,ghori,keveen@123,ccecff84bb1f48cef557286466971f9c2ea8371fff1d0f98eb18d2082a197f00,1
+82,keveen,ghori,kj@gmail.com,kj@123,2
+83,kevin,ghori,kevin@gmail.com,Keveen@123,2
+85,kevin,ghori,kevin@gmail.com,keveen,3
