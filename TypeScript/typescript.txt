@@ -1,0 +1,23 @@
+==================================TypeScript=====================================================
+1-12, 14, 16, 18, 26, 34, 36
+
+command: tcs app.ts
+         node app.js
+         tcs app.ts --watch--> dont have to compile many times
+
+SIMPLE EX:
+class App{
+    test(){
+        console.log('The test Function is working...')
+    }
+}
+let a1 = new App();
+a1.test();
+
+====================================TYPES======================================================
+The any Type
+Arrays
+Tuples
+Enums
+Functions
+Objects
