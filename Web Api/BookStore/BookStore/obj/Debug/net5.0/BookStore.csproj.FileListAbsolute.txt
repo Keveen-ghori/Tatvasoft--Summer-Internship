@@ -1,0 +1,88 @@
+C:\Users\KEVIN\source\repos\BookStore\BookStore\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\KEVIN\source\repos\BookStore\BookStore\bin\Debug\net5.0\appsettings.json
+C:\Users\KEVIN\source\repos\BookStore\BookStore\bin\Debug\net5.0\BookStore.exe
+C:\Users\KEVIN\source\repos\BookStore\BookStore\bin\Debug\net5.0\BookStore.deps.json
+C:\Users\KEVIN\source\repos\BookStore\BookStore\bin\Debug\net5.0\BookStore.runtimeconfig.json
+C:\Users\KEVIN\source\repos\BookStore\BookStore\bin\Debug\net5.0\BookStore.runtimeconfig.dev.json
+C:\Users\KEVIN\source\repos\BookStore\BookStore\bin\Debug\net5.0\BookStore.dll
+C:\Users\KEVIN\source\repos\BookStore\BookStore\bin\Debug\net5.0\ref\BookStore.dll
+C:\Users\KEVIN\source\repos\BookStore\BookStore\bin\Debug\net5.0\BookStore.pdb
+C:\Users\KEVIN\source\repos\BookStore\BookStore\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\KEVIN\source\repos\BookStore\BookStore\bin\Debug\net5.0\Humanizer.dll
+C:\Users\KEVIN\source\repos\BookStore\BookStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\KEVIN\source\repos\BookStore\BookStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\KEVIN\source\repos\BookStore\BookStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\KEVIN\source\repos\BookStore\BookStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\KEVIN\source\repos\BookStore\BookStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\KEVIN\source\repos\BookStore\BookStore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\KEVIN\source\repos\BookStore\BookStore\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\KEVIN\source\repos\BookStore\BookStore\bin\Debug\net5.0\Npgsql.dll
+C:\Users\KEVIN\source\repos\BookStore\BookStore\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\KEVIN\source\repos\BookStore\BookStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\KEVIN\source\repos\BookStore\BookStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\KEVIN\source\repos\BookStore\BookStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\KEVIN\source\repos\BookStore\BookStore\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\KEVIN\source\repos\BookStore\BookStore\bin\Debug\net5.0\BookStore.Model.dll
+C:\Users\KEVIN\source\repos\BookStore\BookStore\bin\Debug\net5.0\BookStore.Repository.dll
+C:\Users\KEVIN\source\repos\BookStore\BookStore\bin\Debug\net5.0\BookStore.Model.pdb
+C:\Users\KEVIN\source\repos\BookStore\BookStore\bin\Debug\net5.0\BookStore.Repository.pdb
+C:\Users\KEVIN\source\repos\BookStore\BookStore\obj\Debug\net5.0\BookStore.csproj.AssemblyReference.cache
+C:\Users\KEVIN\source\repos\BookStore\BookStore\obj\Debug\net5.0\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEVIN\source\repos\BookStore\BookStore\obj\Debug\net5.0\BookStore.AssemblyInfoInputs.cache
+C:\Users\KEVIN\source\repos\BookStore\BookStore\obj\Debug\net5.0\BookStore.AssemblyInfo.cs
+C:\Users\KEVIN\source\repos\BookStore\BookStore\obj\Debug\net5.0\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\KEVIN\source\repos\BookStore\BookStore\obj\Debug\net5.0\BookStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KEVIN\source\repos\BookStore\BookStore\obj\Debug\net5.0\BookStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KEVIN\source\repos\BookStore\BookStore\obj\Debug\net5.0\staticwebassets\BookStore.StaticWebAssets.Manifest.cache
+C:\Users\KEVIN\source\repos\BookStore\BookStore\obj\Debug\net5.0\staticwebassets\BookStore.StaticWebAssets.xml
+C:\Users\KEVIN\source\repos\BookStore\BookStore\obj\Debug\net5.0\scopedcss\bundle\BookStore.styles.css
+C:\Users\KEVIN\source\repos\BookStore\BookStore\obj\Debug\net5.0\BookStore.RazorTargetAssemblyInfo.cache
+C:\Users\KEVIN\source\repos\BookStore\BookStore\obj\Debug\net5.0\BookStore.csproj.CopyComplete
+C:\Users\KEVIN\source\repos\BookStore\BookStore\obj\Debug\net5.0\BookStore.dll
+C:\Users\KEVIN\source\repos\BookStore\BookStore\obj\Debug\net5.0\ref\BookStore.dll
+C:\Users\KEVIN\source\repos\BookStore\BookStore\obj\Debug\net5.0\BookStore.pdb
+C:\Users\KEVIN\source\repos\BookStore\BookStore\obj\Debug\net5.0\BookStore.genruntimeconfig.cache
+G:\Tatvasoft\Web API\BookStore\BookStore\bin\Debug\net5.0\appsettings.Development.json
+G:\Tatvasoft\Web API\BookStore\BookStore\bin\Debug\net5.0\appsettings.json
+G:\Tatvasoft\Web API\BookStore\BookStore\bin\Debug\net5.0\BookStore.exe
+G:\Tatvasoft\Web API\BookStore\BookStore\bin\Debug\net5.0\BookStore.deps.json
+G:\Tatvasoft\Web API\BookStore\BookStore\bin\Debug\net5.0\BookStore.runtimeconfig.json
+G:\Tatvasoft\Web API\BookStore\BookStore\bin\Debug\net5.0\BookStore.runtimeconfig.dev.json
+G:\Tatvasoft\Web API\BookStore\BookStore\bin\Debug\net5.0\BookStore.dll
+G:\Tatvasoft\Web API\BookStore\BookStore\bin\Debug\net5.0\ref\BookStore.dll
+G:\Tatvasoft\Web API\BookStore\BookStore\bin\Debug\net5.0\BookStore.pdb
+G:\Tatvasoft\Web API\BookStore\BookStore\bin\Debug\net5.0\Castle.Core.dll
+G:\Tatvasoft\Web API\BookStore\BookStore\bin\Debug\net5.0\Humanizer.dll
+G:\Tatvasoft\Web API\BookStore\BookStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\Tatvasoft\Web API\BookStore\BookStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Tatvasoft\Web API\BookStore\BookStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Tatvasoft\Web API\BookStore\BookStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+G:\Tatvasoft\Web API\BookStore\BookStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Tatvasoft\Web API\BookStore\BookStore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Tatvasoft\Web API\BookStore\BookStore\bin\Debug\net5.0\Microsoft.OpenApi.dll
+G:\Tatvasoft\Web API\BookStore\BookStore\bin\Debug\net5.0\Npgsql.dll
+G:\Tatvasoft\Web API\BookStore\BookStore\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+G:\Tatvasoft\Web API\BookStore\BookStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Tatvasoft\Web API\BookStore\BookStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Tatvasoft\Web API\BookStore\BookStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Tatvasoft\Web API\BookStore\BookStore\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\Tatvasoft\Web API\BookStore\BookStore\bin\Debug\net5.0\BookStore.Model.dll
+G:\Tatvasoft\Web API\BookStore\BookStore\bin\Debug\net5.0\BookStore.Repository.dll
+G:\Tatvasoft\Web API\BookStore\BookStore\bin\Debug\net5.0\BookStore.Model.pdb
+G:\Tatvasoft\Web API\BookStore\BookStore\bin\Debug\net5.0\BookStore.Repository.pdb
+G:\Tatvasoft\Web API\BookStore\BookStore\obj\Debug\net5.0\BookStore.csproj.AssemblyReference.cache
+G:\Tatvasoft\Web API\BookStore\BookStore\obj\Debug\net5.0\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+G:\Tatvasoft\Web API\BookStore\BookStore\obj\Debug\net5.0\BookStore.AssemblyInfoInputs.cache
+G:\Tatvasoft\Web API\BookStore\BookStore\obj\Debug\net5.0\BookStore.AssemblyInfo.cs
+G:\Tatvasoft\Web API\BookStore\BookStore\obj\Debug\net5.0\BookStore.csproj.CoreCompileInputs.cache
+G:\Tatvasoft\Web API\BookStore\BookStore\obj\Debug\net5.0\BookStore.MvcApplicationPartsAssemblyInfo.cs
+G:\Tatvasoft\Web API\BookStore\BookStore\obj\Debug\net5.0\BookStore.MvcApplicationPartsAssemblyInfo.cache
+G:\Tatvasoft\Web API\BookStore\BookStore\obj\Debug\net5.0\staticwebassets\BookStore.StaticWebAssets.Manifest.cache
+G:\Tatvasoft\Web API\BookStore\BookStore\obj\Debug\net5.0\staticwebassets\BookStore.StaticWebAssets.xml
+G:\Tatvasoft\Web API\BookStore\BookStore\obj\Debug\net5.0\scopedcss\bundle\BookStore.styles.css
+G:\Tatvasoft\Web API\BookStore\BookStore\obj\Debug\net5.0\BookStore.RazorTargetAssemblyInfo.cache
+G:\Tatvasoft\Web API\BookStore\BookStore\obj\Debug\net5.0\BookStore.csproj.CopyComplete
+G:\Tatvasoft\Web API\BookStore\BookStore\obj\Debug\net5.0\BookStore.dll
+G:\Tatvasoft\Web API\BookStore\BookStore\obj\Debug\net5.0\ref\BookStore.dll
+G:\Tatvasoft\Web API\BookStore\BookStore\obj\Debug\net5.0\BookStore.pdb
+G:\Tatvasoft\Web API\BookStore\BookStore\obj\Debug\net5.0\BookStore.genruntimeconfig.cache
